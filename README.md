@@ -2,7 +2,6 @@
 
 Meu nome é Sâmia Luvanice, sou uma desenvolvedora fullstack em formação. Sou movida por aprendizado contínuo, colaboração em equipe e pela vontade de construir soluções que gerem impacto positivo e real para as pessoas e os negócios.
 
-
 ## 🚀 Tecnologias e Ferramentas
 
 Front-end:
@@ -51,7 +50,6 @@ Ferramentas de desenvolvimento:
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
  -->
 
-
 <!-- ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&labelColor=FCC624&logo=linux&logoColor=000000)
 ![Adobe XD](https://img.shields.io/badge/-AdobeXD-ff75f7?style=flat-square&labelColor=ff75f7&logo=adobexd&logoColor=000000)
 ![GIMP](https://img.shields.io/badge/-GIMP-5C5543?style=flat-square&labelColor=5C5543&logo=gimp&logoColor=ffffff)
@@ -66,5 +64,3 @@ Ferramentas de desenvolvimento:
 - LinkedIn: https://www.linkedin.com/in/samialuvanice/
 - Email: samia.luvanice.dev@gmail.com
 <!-- - [Portfólio](https://seusite.dev) -->
-
-
