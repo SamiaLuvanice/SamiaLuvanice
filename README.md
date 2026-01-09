@@ -16,7 +16,7 @@ Front-end:
 ![TypeScript](https://img.shields.io/badge/-TypeScript-232323?style=flat&labelColor=000000&logo=typescript&logoColor=3178C6)
 ![Vite](https://img.shields.io/badge/-Vite-232323?style=flat&labelColor=646CFF&logo=vite&logoColor=ffe330)
 ![React](https://img.shields.io/badge/-React-232323?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
-<!--![NextJS](https://img.shields.io/badge/-NextJS-232323?style=flat&labelColor=000000&logo=nextdotjs&logoColor=ffffff) -->
+![NextJS](https://img.shields.io/badge/-NextJS-232323?style=flat&labelColor=000000&logo=nextdotjs&logoColor=ffffff)
 <!-- ![Vue.js](https://img.shields.io/badge/-Vue.js-232323?style=flat&labelColor=000000&logo=vue.js&logoColor=4FC08D) -->
 
 Back-end:
@@ -35,8 +35,8 @@ DevOps:
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-<!--!
-[Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
+<!--
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 -->
