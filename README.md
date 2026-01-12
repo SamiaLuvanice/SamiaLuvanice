@@ -1,6 +1,9 @@
-## Olá, tudo bom?! 👩🏻‍💻✨
+<h1 align="center"> Sâmia Luvanice 👩🏻‍💻</h1>
+<p align="center">
+  <em> Developer Full Stack </em>
+</p>
 
-Meu nome é Sâmia Luvanice, sou uma desenvolvedora fullstack em formação. Sou movida por aprendizado contínuo, colaboração em equipe e pela vontade de construir soluções que gerem impacto positivo e real para as pessoas e os negócios.
+---
 
 ## 🚀 Tecnologias e Ferramentas
 
