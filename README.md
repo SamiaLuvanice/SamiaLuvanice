@@ -1,54 +1,53 @@
 <h1 align="center"> Sâmia Luvanice 👩🏻‍💻</h1>
 <p align="center">
-  <em> Developer Full Stack </em>
+  <em>Full Stack Developer · React · Next.js · Supabase · Automação & IA</em>
 </p>
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🖤 Tech Stack
 
-Front-end:
+### Front-end
+![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=flat&logo=css3&logoColor=1572B6)
+![Sass](https://img.shields.io/badge/Sass-0F172A?style=flat&logo=sass&logoColor=CC6699)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0F172A?style=flat&logo=bootstrap&logoColor=7952B3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=flat&logo=tailwindcss&logoColor=06B6D4)
 
-![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-232323?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
-![Sass](https://img.shields.io/badge/-Sass-232323?style=flat&labelColor=CC6699&logo=sass&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-232323?style=flat&labelColor=7952B3&logo=bootstrap&logoColor=ffffff)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-232323?style=flat&labelColor=06B6D4&logo=tailwindcss&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=flat&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=flat&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-0F172A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0F172A?style=flat&logo=nextdotjs&logoColor=ffffff)
+![Vite](https://img.shields.io/badge/Vite-0F172A?style=flat&logo=vite&logoColor=646CFF)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=flat&labelColor=000000&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/-TypeScript-232323?style=flat&labelColor=000000&logo=typescript&logoColor=3178C6)
-![Vite](https://img.shields.io/badge/-Vite-232323?style=flat&labelColor=646CFF&logo=vite&logoColor=ffe330)
-![React](https://img.shields.io/badge/-React-232323?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
-![NextJS](https://img.shields.io/badge/-NextJS-232323?style=flat&labelColor=000000&logo=nextdotjs&logoColor=ffffff)
-<!-- ![Vue.js](https://img.shields.io/badge/-Vue.js-232323?style=flat&labelColor=000000&logo=vue.js&logoColor=4FC08D) -->
+---
 
-Back-end:
+### Back-end & Database
+![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0F172A?style=flat&logo=express&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=flat&logo=postgresql&logoColor=4169E1)
+![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=flat&logo=supabase&logoColor=3ECF8E)
 
-![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/-Express-232323?style=flat&labelColor=000000&logo=express&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
-<!--
-![Sequelize](https://img.shields.io/badge/-Sequelize-232323?style=flat&labelColor=000000&logo=sequelize&logoColor=52B0E7)
-![MongoDB](https://img.shields.io/badge/-MongoDB-232323?style=flat&labelColor=47A248&logo=mongodb&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
-![PHP](https://img.shields.io/badge/-PHP-232323?style=flat&labelColor=000000&logo=php&logoColor=777BB4)
-![Laravel](https://img.shields.io/badge/-Laravel-232323?style=flat&labelColor=FF2D20&logo=laravel&logoColor=ffffff) -->
+---
 
-DevOps:
+### Automation & AI
+![n8n](https://img.shields.io/badge/n8n-0F172A?style=flat&logo=n8n&logoColor=EA4B71)
+![Lovable](https://img.shields.io/badge/Lovable-0F172A?style=flat&logo=lovable&logoColor=ffffff)
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-<!--
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
--->
+---
 
-Ferramentas de desenvolvimento:
+### DevOps
+![Git](https://img.shields.io/badge/Git-0F172A?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=flat&logo=github&logoColor=ffffff)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0F172A?style=flat&logo=bitbucket&logoColor=0052CC)
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+---
+
+### Tools & Design
+![VS Code](https://img.shields.io/badge/VS_Code-0F172A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/Figma-0F172A?style=flat&logo=figma&logoColor=F24E1E)
+![Trello](https://img.shields.io/badge/Trello-0F172A?style=flat&logo=trello&logoColor=0052CC)
+
 <!-- 
 ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
