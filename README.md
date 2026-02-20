@@ -5,7 +5,7 @@
 
 ---
 
-## 🖤 Tech Stack
+## Tech Stack
 
 ### Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=flat&logo=html5&logoColor=E34F26)
