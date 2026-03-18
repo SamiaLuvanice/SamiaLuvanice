@@ -1,6 +1,6 @@
 <h1 align="center"> Sâmia Luvanice 👩🏻‍💻</h1>
 <p align="center">
-  <em>Full Stack Developer · React · Next.js · Supabase · Automação & IA</em>
+  <em>Full Stack Developer · React · Next.js · Python · Automação & IA</em>
 </p>
 
 ---
