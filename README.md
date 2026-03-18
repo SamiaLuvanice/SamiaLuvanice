@@ -25,6 +25,7 @@
 ### Back-end & Database
 ![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat&logo=nodedotjs&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-0F172A?style=flat&logo=express&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-0F172A?style=flat&logo=python&logoColor=3776AB)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=flat&logo=postgresql&logoColor=4169E1)
 ![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=flat&logo=supabase&logoColor=3ECF8E)
 
@@ -40,6 +41,7 @@
 ![Git](https://img.shields.io/badge/Git-0F172A?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=flat&logo=github&logoColor=ffffff)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0F172A?style=flat&logo=bitbucket&logoColor=0052CC)
+![Docker](https://img.shields.io/badge/Docker-0F172A?style=flat&logo=docker&logoColor=2496ED)
 
 ---
 
@@ -64,6 +66,6 @@
 - [**Outro Projeto**](link) – outra descrição breve -->
 
 ## 📫 Como me encontrar
-- LinkedIn: https://www.linkedin.com/in/samialuvanice/
-- Email: samia.luvanice.dev@gmail.com
-<!-- - [Portfólio](https://seusite.dev) -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/samialuvanice/)
+- 📧 Email: samia.luvanice.dev@gmail.com
+- 🌐 [Portfólio](https://samialuvanicedev.vercel.app/)
