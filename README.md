@@ -22,10 +22,17 @@
 
 ---
 
-### Back-end & Database
+### Back-end
 ![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=flat&logo=nodedotjs&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-0F172A?style=flat&logo=express&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/Python-0F172A?style=flat&logo=python&logoColor=3776AB)
+![Django](https://img.shields.io/badge/Django-0F172A?style=flat&logo=django&logoColor=092E20)
+![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=flat&logo=fastapi&logoColor=009639)
+
+---
+
+### Database
+![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=flat&logo=mongodb&logoColor=47A248)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=flat&logo=postgresql&logoColor=4169E1)
 ![Supabase](https://img.shields.io/badge/Supabase-0F172A?style=flat&logo=supabase&logoColor=3ECF8E)
 
